@@ -4,7 +4,7 @@ Heya, so while we learned how to use the 3D Scan software RealityCapture and the
 Enjoy :)
 
 ## The result 
-![The Result](FinalRenders/beautyshot-composited.png)
+![The Result](Renders/TestRender0190-0517.mp4)
 
 ## The Nightmare
-![The Nightmare](FinalRenders/beautyshot-composited.png)
+![The Nightmare](Renders/TestRender0190-0517.mp4)
