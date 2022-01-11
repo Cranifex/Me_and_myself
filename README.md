@@ -4,7 +4,7 @@ Heya, so while we learned how to use the 3D Scan software RealityCapture and the
 Enjoy :)
 
 ## The result 
-![The Result](Renders/NiklasBossfight.mov)
+[![The Result](https://img.youtube.com/vi/avVyOGXl-N0/0.jpg)](https://www.youtube.com/watch?v=avVyOGXl-N0)
 
 ## The Nightmare
-![The Nightmare](Renders/TestRender0190-0517.mp4)
+[![The Nightmare](https://img.youtube.com/vi/xC50cuaV8KA/0.jpg)](https://youtu.be/xC50cuaV8KA)
